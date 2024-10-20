@@ -11,14 +11,17 @@ headers = ['PatientId', 'Patient MRN', 'LastName', 'FirstName', 'MiddleName', 'D
            'Patient_Primary_Phone_Number', 'Patient_Emailx']
 
 def create_hl7_message(row):
+    # Format the Control ID: Use MRN, Metric_Abbr, and PerformedDTTM (observation date)
+    control_id = f'{row["Patient MRN"]}_{row["ActivityHeaderID"]}_{row["PerformedDTTM"].replace("-", "").replace(" ", "").replace(":", "")[:12]}'
+
     # Create MSH segment
-    msh_segment = f'MSH|^~\\&|TouchWorks|Southwest Medical Associates|Rhapsody^Rhapsody|Epic^Epic|{datetime.now().strftime("%Y%m%d%H%M%S")}||ORU^R01|{row["Patient MRN"]}_001|P|2.5.1'
+    msh_segment = f'MSH|^~\\&|TouchWorks|Southwest Medical Associates|Rhapsody^Rhapsody|Epic^Epic|{datetime.now().strftime("%Y%m%d%H%M%S")}||ORU^R01|{control_id}|P|2.5.1'
 
     # Create PID segment
     pid_segment = f'PID|||{row["Patient MRN"]}^^^^TWSMAMRN||{row["LastName"]}^{row["FirstName"]}^{row["MiddleName"]}||{row["DateOfBirth"].replace("-", "")}|{row["Sex"]}|||{row["APM_Patient_Street1"]}^^{row["APM_Patient_City"]}^{row["APM_Patient_State"]}^{row["APM_Patient_Zip_Code"]}'
 
     # Create OBR segment
-    obr_segment = f'OBR|1||||||{row["PerformedDTTM"].replace("-", "").replace(" ", "").replace(":", "")}'
+    obr_segment = f'OBR|1||||||{row["PerformedDTTM"].replace("-", "").replace(" ", "").replace(":", "")[:14]}'  # OBR date formatting
 
     # Create OBX segment (for observations)
     obx_segment = f'OBX|1||{row["LoincLabCode"]}^{row["Metric_Abbr"]}^LN||{row["Result"]}|{row["UnitOfMeasure"]}'
@@ -32,7 +35,7 @@ def convert_to_hl7(input_file, output_file):
     with open(input_file, mode='r') as infile, open(output_file, mode='w') as outfile:
         csv_reader = csv.DictReader(infile, delimiter='|', fieldnames=headers)
         
-        # Skip the first row since it’s the actual data row, not a header
+        # Skip the first row if it's a header
         next(csv_reader)
         
         for row in csv_reader:
