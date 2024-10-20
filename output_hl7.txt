@@ -1,0 +1,34 @@
+MSH|^~\&|TouchWorks|Southwest Medical Associates|Rhapsody^Rhapsody|Epic^Epic|20241021012813||ORU^R01|420_20004200_20211022|P|2.5.1
+PID|||20004200^^^^TWSMAMRN||Martinez^David^E||20080419|M|||Martinez^^4479 E Mesquite Desert Trl^^Tucson^AZ^AZ
+OBR|1||||||20211022170300
+OBX|1||8867-4^PUL RATE^LN||68|bpm
+OBX|2||8480-6^BP SYS^LN||110|mm Hg
+OBX|3||8462-4^BP DIAS^LN||62|mm Hg
+OBX|4||8302-2^HGT^LN||61.5|in
+OBX|5||3141-9^WGT^LN||86.55|lb
+OBX|6||59408-5^O2^LN||97|
+OBX|7||8310-5^TEMP^LN||98.49|F
+
+
+MSH|^~\&|TouchWorks|Southwest Medical Associates|Rhapsody^Rhapsody|Epic^Epic|20241021012813||ORU^R01|420_20004200_20211110|P|2.5.1
+PID|||20004200^^^^TWSMAMRN||Martinez^David^E||20080419|M|||Martinez^^4479 E Mesquite Desert Trl^^Tucson^AZ^AZ
+OBR|1||||||20211110131100
+OBX|1||8867-4^PUL RATE^LN||68|bpm
+OBX|2||8310-5^TEMP^LN||97.81|F
+OBX|3||8480-6^BP SYS^LN||114|mm Hg
+OBX|4||8462-4^BP DIAS^LN||68|mm Hg
+OBX|5||3141-9^WGT^LN||83.38|lb
+OBX|6||8302-2^HGT^LN||61.5|in
+OBX|7||59408-5^O2^LN||98|
+
+
+MSH|^~\&|TouchWorks|Southwest Medical Associates|Rhapsody^Rhapsody|Epic^Epic|20241021012813||ORU^R01|420_20004200_20221128|P|2.5.1
+PID|||20004200^^^^TWSMAMRN||Martinez^David^E||20080419|M|||Martinez^^4479 E Mesquite Desert Trl^^Tucson^AZ^AZ
+OBR|1||||||20221128125800
+OBX|1||8302-2^HGT^LN||63.46|in
+OBX|2||3141-9^WGT^LN||89.99|lb
+OBX|3||8480-6^BP SYS^LN||110|mm Hg
+OBX|4||8462-4^BP DIAS^LN||60|mm Hg
+OBX|5||8310-5^TEMP^LN||98.8|F
+OBX|6||8867-4^PUL RATE^LN||73|bpm
+OBX|7||59408-5^O2^LN||98|
