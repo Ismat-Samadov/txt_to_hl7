@@ -5,7 +5,7 @@ This repository contains a Python script and Jupyter Notebook to convert patient
 ## Repository Structure
 
 ```bash
-tasks_DS/
+txt_to_hl7/
 ├── Input.txt               # Input file with sample HL7 data.
 ├── README.md               # This README file with explanations and usage instructions.
 ├── Vitals_allscript.csv     # Input CSV file with patient vitals information.
