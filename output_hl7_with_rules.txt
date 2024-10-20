@@ -1,5 +1,5 @@
-MSH|^~\&|TouchWorks|Southwest Medical Associates|Rhapsody^Rhapsody|Epic^Epic|20241020232259||ORU^R01|20004200_420_20211022|P|2.5.1
-PID|||420^^^^TWSMAMRN||Martinez^David^E||20080419|M|||Martinez^^4479 E Mesquite Desert Trl^^Tucson
+MSH|^~\&|TouchWorks|Southwest Medical Associates|Rhapsody^Rhapsody|Epic^Epic|20241021000510||ORU^R01|20004200_420_20211022|P|2.5.1
+PID|||20004200^^^^TWSMAMRN||Martinez^David^E||20080419|M|||Martinez^^4479 E Mesquite Desert Trl^^Tucson
 OBR|1||||||20211022170300
 OBX|1||8867-4^PUL RATE^LN||68|bpm
 OBX|2||8480-6^BP SYS^LN||110|mm Hg
@@ -10,8 +10,8 @@ OBX|6||59408-5^O2^LN||97|
 OBX|7||8310-5^TEMP^LN||36.94|F
 
 
-MSH|^~\&|TouchWorks|Southwest Medical Associates|Rhapsody^Rhapsody|Epic^Epic|20241020232259||ORU^R01|20004200_420_20211110|P|2.5.1
-PID|||420^^^^TWSMAMRN||Martinez^David^E||20080419|M|||Martinez^^4479 E Mesquite Desert Trl^^Tucson
+MSH|^~\&|TouchWorks|Southwest Medical Associates|Rhapsody^Rhapsody|Epic^Epic|20241021000510||ORU^R01|20004200_420_20211110|P|2.5.1
+PID|||20004200^^^^TWSMAMRN||Martinez^David^E||20080419|M|||Martinez^^4479 E Mesquite Desert Trl^^Tucson
 OBR|1||||||20211110131100
 OBX|1||8867-4^PUL RATE^LN||68|bpm
 OBX|2||8310-5^TEMP^LN||36.56|F
@@ -22,8 +22,8 @@ OBX|6||8302-2^HGT^LN||156.21|in
 OBX|7||59408-5^O2^LN||98|
 
 
-MSH|^~\&|TouchWorks|Southwest Medical Associates|Rhapsody^Rhapsody|Epic^Epic|20241020232259||ORU^R01|20004200_420_20221128|P|2.5.1
-PID|||420^^^^TWSMAMRN||Martinez^David^E||20080419|M|||Martinez^^4479 E Mesquite Desert Trl^^Tucson
+MSH|^~\&|TouchWorks|Southwest Medical Associates|Rhapsody^Rhapsody|Epic^Epic|20241021000510||ORU^R01|20004200_420_20221128|P|2.5.1
+PID|||20004200^^^^TWSMAMRN||Martinez^David^E||20080419|M|||Martinez^^4479 E Mesquite Desert Trl^^Tucson
 OBR|1||||||20221128125800
 OBX|1||8302-2^HGT^LN||161.19|in
 OBX|2||3141-9^WGT^LN||40.82|lb
