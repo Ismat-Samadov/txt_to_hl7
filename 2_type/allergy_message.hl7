@@ -1,0 +1,210 @@
+PID|||1110785^^^^TWSMAMRN||F^1950-05-22|||7027581992^^NULL^7027581992^C^7027581992||^^^NULL|NULL
+IAM|1|medication^Medication|^Penicillins^NAME||20040427 11:26:34.060^No Reactions|A||||NTL001^Penicillins^EXTELG|20040427 11:26:34.060||20040427 11:26:34.060|F^1950-05-22||||No Reactions||20040427 11:26:34.060
+NTE||"No Severity"
+IAM|2|medication^Medication|^Penicillins^NAME||20040427 11:26:34.060^No Reactions|A||||NTL001^Penicillins^EXTELG|20040427 11:26:34.060||20040427 11:26:34.060|F^1950-05-22||||No Reactions||20040427 11:26:34.060
+NTE||"No Severity"
+IAM|3|medication^Medication|^Penicillins^NAME||20040427 11:26:34.060^No Reactions|A||||NTL001^Penicillins^EXTELG|20040427 11:26:34.060||20040427 11:26:34.060|F^1950-05-22||||No Reactions||20040427 11:26:34.060
+NTE||"No Severity"
+IAM|4|medication^Medication|^Penicillins^NAME||20040427 11:26:34.060^No Reactions|A||||NTL001^Penicillins^EXTELG|20040427 11:26:34.060||20040427 11:26:34.060|F^1950-05-22||||No Reactions||20040427 11:26:34.060
+NTE||"No Severity"
+IAM|5|medication^Medication|^Penicillins^NAME||20040427 11:26:34.060^No Reactions|A||||NTL001^Penicillins^EXTELG|20040427 11:26:34.060||20040427 11:26:34.060|F^1950-05-22||||No Reactions||20040427 11:26:34.060
+NTE||"No Severity"
+IAM|6|medication^Medication|^Penicillins^NAME||20040427 11:26:34.060^No Reactions|A||||NTL001^Penicillins^EXTELG|20040427 11:26:34.060||20040427 11:26:34.060|F^1950-05-22||||No Reactions||20040427 11:26:34.060
+NTE||"No Severity"
+IAM|7|medication^Medication|^Penicillins^NAME||20040427 11:26:34.060^No Reactions|A||||NTL001^Penicillins^EXTELG|20040427 11:26:34.060||20040427 11:26:34.060|F^1950-05-22||||No Reactions||20040427 11:26:34.060
+NTE||"No Severity"
+IAM|8|medication^Medication|^Penicillins^NAME||20040427 11:26:34.060^No Reactions|A||||NTL001^Penicillins^EXTELG|20040427 11:26:34.060||20040427 11:26:34.060|F^1950-05-22||||No Reactions||20040427 11:26:34.060
+NTE||"No Severity"
+IAM|9|medication^Medication|^Penicillins^NAME||20040427 11:26:34.060^No Reactions|A||||NTL001^Penicillins^EXTELG|20040427 11:26:34.060||20040427 11:26:34.060|F^1950-05-22||||No Reactions||20040427 11:26:34.060
+NTE||"No Severity"
+IAM|10|medication^Medication|^Penicillins^NAME||20040427 11:26:34.060^No Reactions|A||||NTL001^Penicillins^EXTELG|20040427 11:26:34.060||20040427 11:26:34.060|F^1950-05-22||||No Reactions||20040427 11:26:34.060
+NTE||"No Severity"
+PID|||1110785^^^^TWSMAMRN||AZ^85268||7027581992|US^^1950-05-22^7027581992^NULL^NULL||NULL^^^NULL|NULL
+IAM|1|medication^Medication|^Iodine Crystals^NAME||20040427 11:26:34.077^Jacqueline|A||||NTL001^Iodine Crystals^EXTELG|20040427 11:26:34.077||20040427 11:26:34.077|AZ^85268|||| Anaphylaxsis||20040427 11:26:34.077
+NTE||"No Reactions"
+IAM|2|medication^Medication|^Iodine Crystals^NAME||20040427 11:26:34.077^Jacqueline|A||||NTL001^Iodine Crystals^EXTELG|20040427 11:26:34.077||20040427 11:26:34.077|AZ^85268|||| Anaphylaxsis||20040427 11:26:34.077
+NTE||"No Reactions"
+IAM|3|medication^Medication|^Iodine Crystals^NAME||20040427 11:26:34.077^Jacqueline|A||||NTL001^Iodine Crystals^EXTELG|20040427 11:26:34.077||20040427 11:26:34.077|AZ^85268|||| Anaphylaxsis||20040427 11:26:34.077
+NTE||"No Reactions"
+IAM|4|medication^Medication|^Iodine Crystals^NAME||20040427 11:26:34.077^Jacqueline|A||||NTL001^Iodine Crystals^EXTELG|20040427 11:26:34.077||20040427 11:26:34.077|AZ^85268|||| Anaphylaxsis||20040427 11:26:34.077
+NTE||"No Reactions"
+IAM|5|medication^Medication|^Iodine Crystals^NAME||20040427 11:26:34.077^Jacqueline|A||||NTL001^Iodine Crystals^EXTELG|20040427 11:26:34.077||20040427 11:26:34.077|AZ^85268|||| Anaphylaxsis||20040427 11:26:34.077
+NTE||"No Reactions"
+IAM|6|medication^Medication|^Iodine Crystals^NAME||20040427 11:26:34.077^Jacqueline|A||||NTL001^Iodine Crystals^EXTELG|20040427 11:26:34.077||20040427 11:26:34.077|AZ^85268|||| Anaphylaxsis||20040427 11:26:34.077
+NTE||"No Reactions"
+IAM|7|medication^Medication|^Iodine Crystals^NAME||20040427 11:26:34.077^Jacqueline|A||||NTL001^Iodine Crystals^EXTELG|20040427 11:26:34.077||20040427 11:26:34.077|AZ^85268|||| Anaphylaxsis||20040427 11:26:34.077
+NTE||"No Reactions"
+IAM|8|medication^Medication|^Iodine Crystals^NAME||20040427 11:26:34.077^Jacqueline|A||||NTL001^Iodine Crystals^EXTELG|20040427 11:26:34.077||20040427 11:26:34.077|AZ^85268|||| Anaphylaxsis||20040427 11:26:34.077
+NTE||"No Reactions"
+IAM|9|medication^Medication|^Iodine Crystals^NAME||20040427 11:26:34.077^Jacqueline|A||||NTL001^Iodine Crystals^EXTELG|20040427 11:26:34.077||20040427 11:26:34.077|AZ^85268|||| Anaphylaxsis||20040427 11:26:34.077
+NTE||"No Reactions"
+IAM|10|medication^Medication|^Iodine Crystals^NAME||20040427 11:26:34.077^Jacqueline|A||||NTL001^Iodine Crystals^EXTELG|20040427 11:26:34.077||20040427 11:26:34.077|AZ^85268|||| Anaphylaxsis||20040427 11:26:34.077
+NTE||"No Reactions"
+PID|||1110785^^^^TWSMAMRN||AZ^85268||7027581992|US^^1950-05-22^7027581992^NULL^NULL||NULL^^^NULL|NULL
+IAM|1|medication^Medication|^Tetanus-Diphteria Toxoids Td SUSP^NAME||20040427 11:26:34.093^Karen|A||||NTL001^Tetanus-Diphteria Toxoids Td SUSP^EXTELG|20040427 11:26:34.093||20040427 11:26:34.093|AZ^85268||||No Reactions||20040427 11:26:34.093
+NTE||"No Reactions"
+IAM|2|medication^Medication|^Tetanus-Diphteria Toxoids Td SUSP^NAME||20040427 11:26:34.093^Karen|A||||NTL001^Tetanus-Diphteria Toxoids Td SUSP^EXTELG|20040427 11:26:34.093||20040427 11:26:34.093|AZ^85268||||No Reactions||20040427 11:26:34.093
+NTE||"No Reactions"
+IAM|3|medication^Medication|^Tetanus-Diphteria Toxoids Td SUSP^NAME||20040427 11:26:34.093^Karen|A||||NTL001^Tetanus-Diphteria Toxoids Td SUSP^EXTELG|20040427 11:26:34.093||20040427 11:26:34.093|AZ^85268||||No Reactions||20040427 11:26:34.093
+NTE||"No Reactions"
+IAM|4|medication^Medication|^Tetanus-Diphteria Toxoids Td SUSP^NAME||20040427 11:26:34.093^Karen|A||||NTL001^Tetanus-Diphteria Toxoids Td SUSP^EXTELG|20040427 11:26:34.093||20040427 11:26:34.093|AZ^85268||||No Reactions||20040427 11:26:34.093
+NTE||"No Reactions"
+IAM|5|medication^Medication|^Tetanus-Diphteria Toxoids Td SUSP^NAME||20040427 11:26:34.093^Karen|A||||NTL001^Tetanus-Diphteria Toxoids Td SUSP^EXTELG|20040427 11:26:34.093||20040427 11:26:34.093|AZ^85268||||No Reactions||20040427 11:26:34.093
+NTE||"No Reactions"
+IAM|6|medication^Medication|^Tetanus-Diphteria Toxoids Td SUSP^NAME||20040427 11:26:34.093^Karen|A||||NTL001^Tetanus-Diphteria Toxoids Td SUSP^EXTELG|20040427 11:26:34.093||20040427 11:26:34.093|AZ^85268||||No Reactions||20040427 11:26:34.093
+NTE||"No Reactions"
+IAM|7|medication^Medication|^Tetanus-Diphteria Toxoids Td SUSP^NAME||20040427 11:26:34.093^Karen|A||||NTL001^Tetanus-Diphteria Toxoids Td SUSP^EXTELG|20040427 11:26:34.093||20040427 11:26:34.093|AZ^85268||||No Reactions||20040427 11:26:34.093
+NTE||"No Reactions"
+IAM|8|medication^Medication|^Tetanus-Diphteria Toxoids Td SUSP^NAME||20040427 11:26:34.093^Karen|A||||NTL001^Tetanus-Diphteria Toxoids Td SUSP^EXTELG|20040427 11:26:34.093||20040427 11:26:34.093|AZ^85268||||No Reactions||20040427 11:26:34.093
+NTE||"No Reactions"
+IAM|9|medication^Medication|^Tetanus-Diphteria Toxoids Td SUSP^NAME||20040427 11:26:34.093^Karen|A||||NTL001^Tetanus-Diphteria Toxoids Td SUSP^EXTELG|20040427 11:26:34.093||20040427 11:26:34.093|AZ^85268||||No Reactions||20040427 11:26:34.093
+NTE||"No Reactions"
+IAM|10|medication^Medication|^Tetanus-Diphteria Toxoids Td SUSP^NAME||20040427 11:26:34.093^Karen|A||||NTL001^Tetanus-Diphteria Toxoids Td SUSP^EXTELG|20040427 11:26:34.093||20040427 11:26:34.093|AZ^85268||||No Reactions||20040427 11:26:34.093
+NTE||"No Reactions"
+PID|||1110785^^^^TWSMAMRN||US^F|||1950-05-22^^NULL^NULL^7027581992^C||^^^NULL|NULL
+IAM|1|medication^Medication|^Zithromax TABS^NAME||2186630^No Reactions|A||||NTL001^Zithromax TABS^EXTELG|2186630||2186630|US^F||||No Reactions||2186630
+NTE||"No Severity"
+IAM|2|medication^Medication|^Zithromax TABS^NAME||2186630^No Reactions|A||||NTL001^Zithromax TABS^EXTELG|2186630||2186630|US^F||||No Reactions||2186630
+NTE||"No Severity"
+IAM|3|medication^Medication|^Zithromax TABS^NAME||2186630^No Reactions|A||||NTL001^Zithromax TABS^EXTELG|2186630||2186630|US^F||||No Reactions||2186630
+NTE||"No Severity"
+IAM|4|medication^Medication|^Zithromax TABS^NAME||2186630^No Reactions|A||||NTL001^Zithromax TABS^EXTELG|2186630||2186630|US^F||||No Reactions||2186630
+NTE||"No Severity"
+IAM|5|medication^Medication|^Zithromax TABS^NAME||2186630^No Reactions|A||||NTL001^Zithromax TABS^EXTELG|2186630||2186630|US^F||||No Reactions||2186630
+NTE||"No Severity"
+IAM|6|medication^Medication|^Zithromax TABS^NAME||2186630^No Reactions|A||||NTL001^Zithromax TABS^EXTELG|2186630||2186630|US^F||||No Reactions||2186630
+NTE||"No Severity"
+IAM|7|medication^Medication|^Zithromax TABS^NAME||2186630^No Reactions|A||||NTL001^Zithromax TABS^EXTELG|2186630||2186630|US^F||||No Reactions||2186630
+NTE||"No Severity"
+IAM|8|medication^Medication|^Zithromax TABS^NAME||2186630^No Reactions|A||||NTL001^Zithromax TABS^EXTELG|2186630||2186630|US^F||||No Reactions||2186630
+NTE||"No Severity"
+IAM|9|medication^Medication|^Zithromax TABS^NAME||2186630^No Reactions|A||||NTL001^Zithromax TABS^EXTELG|2186630||2186630|US^F||||No Reactions||2186630
+NTE||"No Severity"
+IAM|10|medication^Medication|^Zithromax TABS^NAME||2186630^No Reactions|A||||NTL001^Zithromax TABS^EXTELG|2186630||2186630|US^F||||No Reactions||2186630
+NTE||"No Severity"
+PID|||1110785^^^^TWSMAMRN||F^1950-05-22|||7027581992^^NULL^7027581992^C^7027581992||^^^NULL|NULL
+IAM|1|medication^Medication|^Clindamycin HCl CAPS^NAME||20070320 08:40:38.183^No Reactions|A||||NTL001^Clindamycin HCl CAPS^EXTELG|20070320 08:40:38.183||20070320 08:40:38.183|F^1950-05-22||||No Reactions||20070320 08:40:38.183
+NTE||"No Severity"
+IAM|2|medication^Medication|^Clindamycin HCl CAPS^NAME||20070320 08:40:38.183^No Reactions|A||||NTL001^Clindamycin HCl CAPS^EXTELG|20070320 08:40:38.183||20070320 08:40:38.183|F^1950-05-22||||No Reactions||20070320 08:40:38.183
+NTE||"No Severity"
+IAM|3|medication^Medication|^Clindamycin HCl CAPS^NAME||20070320 08:40:38.183^No Reactions|A||||NTL001^Clindamycin HCl CAPS^EXTELG|20070320 08:40:38.183||20070320 08:40:38.183|F^1950-05-22||||No Reactions||20070320 08:40:38.183
+NTE||"No Severity"
+IAM|4|medication^Medication|^Clindamycin HCl CAPS^NAME||20070320 08:40:38.183^No Reactions|A||||NTL001^Clindamycin HCl CAPS^EXTELG|20070320 08:40:38.183||20070320 08:40:38.183|F^1950-05-22||||No Reactions||20070320 08:40:38.183
+NTE||"No Severity"
+IAM|5|medication^Medication|^Clindamycin HCl CAPS^NAME||20070320 08:40:38.183^No Reactions|A||||NTL001^Clindamycin HCl CAPS^EXTELG|20070320 08:40:38.183||20070320 08:40:38.183|F^1950-05-22||||No Reactions||20070320 08:40:38.183
+NTE||"No Severity"
+IAM|6|medication^Medication|^Clindamycin HCl CAPS^NAME||20070320 08:40:38.183^No Reactions|A||||NTL001^Clindamycin HCl CAPS^EXTELG|20070320 08:40:38.183||20070320 08:40:38.183|F^1950-05-22||||No Reactions||20070320 08:40:38.183
+NTE||"No Severity"
+IAM|7|medication^Medication|^Clindamycin HCl CAPS^NAME||20070320 08:40:38.183^No Reactions|A||||NTL001^Clindamycin HCl CAPS^EXTELG|20070320 08:40:38.183||20070320 08:40:38.183|F^1950-05-22||||No Reactions||20070320 08:40:38.183
+NTE||"No Severity"
+IAM|8|medication^Medication|^Clindamycin HCl CAPS^NAME||20070320 08:40:38.183^No Reactions|A||||NTL001^Clindamycin HCl CAPS^EXTELG|20070320 08:40:38.183||20070320 08:40:38.183|F^1950-05-22||||No Reactions||20070320 08:40:38.183
+NTE||"No Severity"
+IAM|9|medication^Medication|^Clindamycin HCl CAPS^NAME||20070320 08:40:38.183^No Reactions|A||||NTL001^Clindamycin HCl CAPS^EXTELG|20070320 08:40:38.183||20070320 08:40:38.183|F^1950-05-22||||No Reactions||20070320 08:40:38.183
+NTE||"No Severity"
+IAM|10|medication^Medication|^Clindamycin HCl CAPS^NAME||20070320 08:40:38.183^No Reactions|A||||NTL001^Clindamycin HCl CAPS^EXTELG|20070320 08:40:38.183||20070320 08:40:38.183|F^1950-05-22||||No Reactions||20070320 08:40:38.183
+NTE||"No Severity"
+PID|||1110785^^^^TWSMAMRN||F^1950-05-22|||7027581992^^NULL^7027581992^C^7027581992||^^^NULL|NULL
+IAM|1|medication^Medication|^Vancocin HCl CAPS^NAME||20120221 09:01:06.003^No Reactions|A||||NTL001^Vancocin HCl CAPS^EXTELG|20120221 09:01:06.003||20120221 09:01:06.003|F^1950-05-22||||No Reactions||20120221 09:01:06.003
+NTE||"No Severity"
+IAM|2|medication^Medication|^Vancocin HCl CAPS^NAME||20120221 09:01:06.003^No Reactions|A||||NTL001^Vancocin HCl CAPS^EXTELG|20120221 09:01:06.003||20120221 09:01:06.003|F^1950-05-22||||No Reactions||20120221 09:01:06.003
+NTE||"No Severity"
+IAM|3|medication^Medication|^Vancocin HCl CAPS^NAME||20120221 09:01:06.003^No Reactions|A||||NTL001^Vancocin HCl CAPS^EXTELG|20120221 09:01:06.003||20120221 09:01:06.003|F^1950-05-22||||No Reactions||20120221 09:01:06.003
+NTE||"No Severity"
+IAM|4|medication^Medication|^Vancocin HCl CAPS^NAME||20120221 09:01:06.003^No Reactions|A||||NTL001^Vancocin HCl CAPS^EXTELG|20120221 09:01:06.003||20120221 09:01:06.003|F^1950-05-22||||No Reactions||20120221 09:01:06.003
+NTE||"No Severity"
+IAM|5|medication^Medication|^Vancocin HCl CAPS^NAME||20120221 09:01:06.003^No Reactions|A||||NTL001^Vancocin HCl CAPS^EXTELG|20120221 09:01:06.003||20120221 09:01:06.003|F^1950-05-22||||No Reactions||20120221 09:01:06.003
+NTE||"No Severity"
+IAM|6|medication^Medication|^Vancocin HCl CAPS^NAME||20120221 09:01:06.003^No Reactions|A||||NTL001^Vancocin HCl CAPS^EXTELG|20120221 09:01:06.003||20120221 09:01:06.003|F^1950-05-22||||No Reactions||20120221 09:01:06.003
+NTE||"No Severity"
+IAM|7|medication^Medication|^Vancocin HCl CAPS^NAME||20120221 09:01:06.003^No Reactions|A||||NTL001^Vancocin HCl CAPS^EXTELG|20120221 09:01:06.003||20120221 09:01:06.003|F^1950-05-22||||No Reactions||20120221 09:01:06.003
+NTE||"No Severity"
+IAM|8|medication^Medication|^Vancocin HCl CAPS^NAME||20120221 09:01:06.003^No Reactions|A||||NTL001^Vancocin HCl CAPS^EXTELG|20120221 09:01:06.003||20120221 09:01:06.003|F^1950-05-22||||No Reactions||20120221 09:01:06.003
+NTE||"No Severity"
+IAM|9|medication^Medication|^Vancocin HCl CAPS^NAME||20120221 09:01:06.003^No Reactions|A||||NTL001^Vancocin HCl CAPS^EXTELG|20120221 09:01:06.003||20120221 09:01:06.003|F^1950-05-22||||No Reactions||20120221 09:01:06.003
+NTE||"No Severity"
+IAM|10|medication^Medication|^Vancocin HCl CAPS^NAME||20120221 09:01:06.003^No Reactions|A||||NTL001^Vancocin HCl CAPS^EXTELG|20120221 09:01:06.003||20120221 09:01:06.003|F^1950-05-22||||No Reactions||20120221 09:01:06.003
+NTE||"No Severity"
+PID|||1110785^^^^TWSMAMRN||F^1950-05-22|||7027581992^^NULL^7027581992^C^7027581992||^^^NULL|NULL
+IAM|1|medication^Medication|^erythromycin^NAME||20140919 16:17:38.257^No Reactions|A||||NTL001^erythromycin^EXTELG|20140919 16:17:38.257||20140919 16:17:38.257|F^1950-05-22||||No Reactions||20140919 16:17:38.257
+NTE||"No Severity"
+IAM|2|medication^Medication|^erythromycin^NAME||20140919 16:17:38.257^No Reactions|A||||NTL001^erythromycin^EXTELG|20140919 16:17:38.257||20140919 16:17:38.257|F^1950-05-22||||No Reactions||20140919 16:17:38.257
+NTE||"No Severity"
+IAM|3|medication^Medication|^erythromycin^NAME||20140919 16:17:38.257^No Reactions|A||||NTL001^erythromycin^EXTELG|20140919 16:17:38.257||20140919 16:17:38.257|F^1950-05-22||||No Reactions||20140919 16:17:38.257
+NTE||"No Severity"
+IAM|4|medication^Medication|^erythromycin^NAME||20140919 16:17:38.257^No Reactions|A||||NTL001^erythromycin^EXTELG|20140919 16:17:38.257||20140919 16:17:38.257|F^1950-05-22||||No Reactions||20140919 16:17:38.257
+NTE||"No Severity"
+IAM|5|medication^Medication|^erythromycin^NAME||20140919 16:17:38.257^No Reactions|A||||NTL001^erythromycin^EXTELG|20140919 16:17:38.257||20140919 16:17:38.257|F^1950-05-22||||No Reactions||20140919 16:17:38.257
+NTE||"No Severity"
+IAM|6|medication^Medication|^erythromycin^NAME||20140919 16:17:38.257^No Reactions|A||||NTL001^erythromycin^EXTELG|20140919 16:17:38.257||20140919 16:17:38.257|F^1950-05-22||||No Reactions||20140919 16:17:38.257
+NTE||"No Severity"
+IAM|7|medication^Medication|^erythromycin^NAME||20140919 16:17:38.257^No Reactions|A||||NTL001^erythromycin^EXTELG|20140919 16:17:38.257||20140919 16:17:38.257|F^1950-05-22||||No Reactions||20140919 16:17:38.257
+NTE||"No Severity"
+IAM|8|medication^Medication|^erythromycin^NAME||20140919 16:17:38.257^No Reactions|A||||NTL001^erythromycin^EXTELG|20140919 16:17:38.257||20140919 16:17:38.257|F^1950-05-22||||No Reactions||20140919 16:17:38.257
+NTE||"No Severity"
+IAM|9|medication^Medication|^erythromycin^NAME||20140919 16:17:38.257^No Reactions|A||||NTL001^erythromycin^EXTELG|20140919 16:17:38.257||20140919 16:17:38.257|F^1950-05-22||||No Reactions||20140919 16:17:38.257
+NTE||"No Severity"
+IAM|10|medication^Medication|^erythromycin^NAME||20140919 16:17:38.257^No Reactions|A||||NTL001^erythromycin^EXTELG|20140919 16:17:38.257||20140919 16:17:38.257|F^1950-05-22||||No Reactions||20140919 16:17:38.257
+NTE||"No Severity"
+PID|||1110785^^^^TWSMAMRN||85268^US||NULL|F^^7027581992^NULL^NULL^7027581992||^^^NULL|NULL
+IAM|1|medication^Medication|^FLU^NAME||^Reaction|A||||NTL001^FLU^EXTELG||||85268^US||||No Reactions||
+NTE||"No Reactions"
+IAM|2|medication^Medication|^FLU^NAME||^Reaction|A||||NTL001^FLU^EXTELG||||85268^US||||No Reactions||
+NTE||"No Reactions"
+IAM|3|medication^Medication|^FLU^NAME||^Reaction|A||||NTL001^FLU^EXTELG||||85268^US||||No Reactions||
+NTE||"No Reactions"
+IAM|4|medication^Medication|^FLU^NAME||^Reaction|A||||NTL001^FLU^EXTELG||||85268^US||||No Reactions||
+NTE||"No Reactions"
+IAM|5|medication^Medication|^FLU^NAME||^Reaction|A||||NTL001^FLU^EXTELG||||85268^US||||No Reactions||
+NTE||"No Reactions"
+IAM|6|medication^Medication|^FLU^NAME||^Reaction|A||||NTL001^FLU^EXTELG||||85268^US||||No Reactions||
+NTE||"No Reactions"
+IAM|7|medication^Medication|^FLU^NAME||^Reaction|A||||NTL001^FLU^EXTELG||||85268^US||||No Reactions||
+NTE||"No Reactions"
+IAM|8|medication^Medication|^FLU^NAME||^Reaction|A||||NTL001^FLU^EXTELG||||85268^US||||No Reactions||
+NTE||"No Reactions"
+IAM|9|medication^Medication|^FLU^NAME||^Reaction|A||||NTL001^FLU^EXTELG||||85268^US||||No Reactions||
+NTE||"No Reactions"
+IAM|10|medication^Medication|^FLU^NAME||^Reaction|A||||NTL001^FLU^EXTELG||||85268^US||||No Reactions||
+NTE||"No Reactions"
+PID|||1110785^^^^TWSMAMRN||US^F|||1950-05-22^^NULL^NULL^7027581992^C||^^^NULL|NULL
+IAM|1|medication^Medication|^Shelfish-derived Products^NAME||20171016 08:14:23.057^No Reactions|A||||NTL001^Shelfish-derived Products^EXTELG|20171016 08:14:23.057||20171016 08:14:23.057|US^F||||No Reactions||20171016 08:14:23.057
+NTE||"No Severity"
+IAM|2|medication^Medication|^Shelfish-derived Products^NAME||20171016 08:14:23.057^No Reactions|A||||NTL001^Shelfish-derived Products^EXTELG|20171016 08:14:23.057||20171016 08:14:23.057|US^F||||No Reactions||20171016 08:14:23.057
+NTE||"No Severity"
+IAM|3|medication^Medication|^Shelfish-derived Products^NAME||20171016 08:14:23.057^No Reactions|A||||NTL001^Shelfish-derived Products^EXTELG|20171016 08:14:23.057||20171016 08:14:23.057|US^F||||No Reactions||20171016 08:14:23.057
+NTE||"No Severity"
+IAM|4|medication^Medication|^Shelfish-derived Products^NAME||20171016 08:14:23.057^No Reactions|A||||NTL001^Shelfish-derived Products^EXTELG|20171016 08:14:23.057||20171016 08:14:23.057|US^F||||No Reactions||20171016 08:14:23.057
+NTE||"No Severity"
+IAM|5|medication^Medication|^Shelfish-derived Products^NAME||20171016 08:14:23.057^No Reactions|A||||NTL001^Shelfish-derived Products^EXTELG|20171016 08:14:23.057||20171016 08:14:23.057|US^F||||No Reactions||20171016 08:14:23.057
+NTE||"No Severity"
+IAM|6|medication^Medication|^Shelfish-derived Products^NAME||20171016 08:14:23.057^No Reactions|A||||NTL001^Shelfish-derived Products^EXTELG|20171016 08:14:23.057||20171016 08:14:23.057|US^F||||No Reactions||20171016 08:14:23.057
+NTE||"No Severity"
+IAM|7|medication^Medication|^Shelfish-derived Products^NAME||20171016 08:14:23.057^No Reactions|A||||NTL001^Shelfish-derived Products^EXTELG|20171016 08:14:23.057||20171016 08:14:23.057|US^F||||No Reactions||20171016 08:14:23.057
+NTE||"No Severity"
+IAM|8|medication^Medication|^Shelfish-derived Products^NAME||20171016 08:14:23.057^No Reactions|A||||NTL001^Shelfish-derived Products^EXTELG|20171016 08:14:23.057||20171016 08:14:23.057|US^F||||No Reactions||20171016 08:14:23.057
+NTE||"No Severity"
+IAM|9|medication^Medication|^Shelfish-derived Products^NAME||20171016 08:14:23.057^No Reactions|A||||NTL001^Shelfish-derived Products^EXTELG|20171016 08:14:23.057||20171016 08:14:23.057|US^F||||No Reactions||20171016 08:14:23.057
+NTE||"No Severity"
+IAM|10|medication^Medication|^Shelfish-derived Products^NAME||20171016 08:14:23.057^No Reactions|A||||NTL001^Shelfish-derived Products^EXTELG|20171016 08:14:23.057||20171016 08:14:23.057|US^F||||No Reactions||20171016 08:14:23.057
+NTE||"No Severity"
+PID|||1110785^^^^TWSMAMRN||F^1950-05-22|||7027581992^^NULL^7027581992^C^7027581992||^^^NULL|NULL
+IAM|1|medication^Medication|^Lactose^NAME||20181009 09:35:26.000^No Reactions|A||||NTL001^Lactose^EXTELG|20181009 09:35:26.000||20181009 09:35:26.000|F^1950-05-22||||No Reactions||20181009 09:35:26.000
+NTE||"No Severity"
+IAM|2|medication^Medication|^Lactose^NAME||20181009 09:35:26.000^No Reactions|A||||NTL001^Lactose^EXTELG|20181009 09:35:26.000||20181009 09:35:26.000|F^1950-05-22||||No Reactions||20181009 09:35:26.000
+NTE||"No Severity"
+IAM|3|medication^Medication|^Lactose^NAME||20181009 09:35:26.000^No Reactions|A||||NTL001^Lactose^EXTELG|20181009 09:35:26.000||20181009 09:35:26.000|F^1950-05-22||||No Reactions||20181009 09:35:26.000
+NTE||"No Severity"
+IAM|4|medication^Medication|^Lactose^NAME||20181009 09:35:26.000^No Reactions|A||||NTL001^Lactose^EXTELG|20181009 09:35:26.000||20181009 09:35:26.000|F^1950-05-22||||No Reactions||20181009 09:35:26.000
+NTE||"No Severity"
+IAM|5|medication^Medication|^Lactose^NAME||20181009 09:35:26.000^No Reactions|A||||NTL001^Lactose^EXTELG|20181009 09:35:26.000||20181009 09:35:26.000|F^1950-05-22||||No Reactions||20181009 09:35:26.000
+NTE||"No Severity"
+IAM|6|medication^Medication|^Lactose^NAME||20181009 09:35:26.000^No Reactions|A||||NTL001^Lactose^EXTELG|20181009 09:35:26.000||20181009 09:35:26.000|F^1950-05-22||||No Reactions||20181009 09:35:26.000
+NTE||"No Severity"
+IAM|7|medication^Medication|^Lactose^NAME||20181009 09:35:26.000^No Reactions|A||||NTL001^Lactose^EXTELG|20181009 09:35:26.000||20181009 09:35:26.000|F^1950-05-22||||No Reactions||20181009 09:35:26.000
+NTE||"No Severity"
+IAM|8|medication^Medication|^Lactose^NAME||20181009 09:35:26.000^No Reactions|A||||NTL001^Lactose^EXTELG|20181009 09:35:26.000||20181009 09:35:26.000|F^1950-05-22||||No Reactions||20181009 09:35:26.000
+NTE||"No Severity"
+IAM|9|medication^Medication|^Lactose^NAME||20181009 09:35:26.000^No Reactions|A||||NTL001^Lactose^EXTELG|20181009 09:35:26.000||20181009 09:35:26.000|F^1950-05-22||||No Reactions||20181009 09:35:26.000
+NTE||"No Severity"
+IAM|10|medication^Medication|^Lactose^NAME||20181009 09:35:26.000^No Reactions|A||||NTL001^Lactose^EXTELG|20181009 09:35:26.000||20181009 09:35:26.000|F^1950-05-22||||No Reactions||20181009 09:35:26.000
+NTE||"No Severity"
